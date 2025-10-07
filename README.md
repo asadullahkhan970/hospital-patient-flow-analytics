@@ -147,7 +147,3 @@ The **Gold layer** data in Synapse follows a **star schema** for optimized analy
 - **Scalable Architecture:** Easily adaptable for different hospital datasets.  
 - **Business Insights:** Hospital admins can monitor **bed usage, patient flow, and department efficiency** in real time.   
 
-
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
-
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
